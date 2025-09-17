@@ -1,0 +1,11 @@
+Name of Quantlet:    'SHAP_AR'
+
+Published in:        'Published in: Watt did you expect?'
+
+Description:         'This Quantlet computes the SHAP value for AR3 models trained in a rolling window fashion. It can take a dataframe containing specific window sizes for different time points that are calculated using LPA_AR'
+
+Keywords:            'time series, AR, SHAP, plot'
+
+Author:         Raul Cristian Bag, Stefan Lessmann, Daniel Traian Pele, Wolfgang Karl Härdle
+
+Datafile:            data.csv
